@@ -21,7 +21,7 @@
 
 ## 🧠 What I do
 
--   Studing in FEMASS (Faculdade Miguel Ângelo da Silva Santos)
+-   Studying at FEMASS (Faculdade Miguel Ângelo da Silva Santos)
 
 
 ---
