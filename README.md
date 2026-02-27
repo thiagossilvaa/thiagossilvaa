@@ -22,6 +22,7 @@
 ## 🧠 What I do
 
 -   Studying at FEMASS (Faculdade Miguel Ângelo da Silva Santos)
+-   Learning software development
 
 
 ---
@@ -34,4 +35,13 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+---
+## 🚀 Philosophy
+
+> _"Learning more every day to become my best self."_
+
+
+---
+  
+🤝 Always open to partnerships, and cool ideas
 
