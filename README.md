@@ -1,6 +1,8 @@
 # Hi 👋, I'm Thiago Saucedo
 
-🚀 **Junior Software Engineer C / C++ & python**
+🚀 **Cybersecurity Student.**
+
+🟥   **Red Team**
 
  
 
@@ -22,18 +24,21 @@
 ## 🧠 What I do
 
 -   Studying at FEMASS (Faculdade Miguel Ângelo da Silva Santos)
--   Learning software development
+-   Learning Cybersecurity
 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Toolbelt
 
 
 
 ![Pytho](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali--Linux-4E80D2?style=flat-square&logo=kalilinux&logoColor=white)
 ---
 ## 🚀 Philosophy
 
@@ -41,6 +46,4 @@
 
 
 ---
-  
-🤝 Always open to partnerships, and cool ideas
 
