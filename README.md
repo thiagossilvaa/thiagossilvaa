@@ -2,7 +2,7 @@
 
 🚀 **Cybersecurity Student.**
 
-🟥   **Red Team**
+🔵   **Blue Team**
 
  
 
